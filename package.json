@@ -1,6 +1,6 @@
 {
   "name": "vitepress-plugin-bangumi",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "VitePress plugin for displaying Bangumi (bgm.tv) collections",
   "type": "module",
   "main": "./dist/index.cjs",
