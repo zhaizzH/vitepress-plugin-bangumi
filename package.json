@@ -22,7 +22,8 @@
     "src/components",
     "src/types.ts",
     "client.d.ts",
-    "README.md"
+    "README.md",
+    "README_EN.md"
   ],
   "scripts": {
     "build": "tsup",
