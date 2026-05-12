@@ -1,6 +1,7 @@
 # vitepress-plugin-bangumi
 
 [![npm](https://img.shields.io/npm/v/vitepress-plugin-bangumi)](https://www.npmjs.com/package/vitepress-plugin-bangumi)
+[English](README_EN.md)
 
 在 VitePress 站点中展示你的 [Bangumi](https://bgm.tv) 收藏数据。
 
@@ -144,4 +145,4 @@ import BangumiCollection from 'vitepress-plugin-bangumi/client'
 
 ## License
 
-MIT
+[MIT](LICENSE)
