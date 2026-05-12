@@ -1,6 +1,7 @@
 # vitepress-plugin-bangumi
 
 [![npm](https://img.shields.io/npm/v/vitepress-plugin-bangumi)](https://www.npmjs.com/package/vitepress-plugin-bangumi)
+[中文](README.md)
 
 Display your [Bangumi](https://bgm.tv) collection data in your VitePress site.
 
